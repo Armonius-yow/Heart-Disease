@@ -7,7 +7,9 @@ This is the first actual project I've worked on. I used this project as a steppi
 * Train three different models on our dataset (Logistic Regression, K-Nearest Neigbors Classifier, Random Forest Classifier)
 * Tuned the parameters of each model to find out which would give the best results
 * Inspected different metrics and discussed their value to this project
-#### Note: In order to run this notebook, You need to either have the dependency packages installed already, or install them with the `environments.yml` file
+#### Note: In order to run this notebook, You need to either have the dependency packages installed already, or install them with the `environments.yml` file with the Anaconda terminal
 
 It's better to create a new environment and then import the packages with the yml file. Luckily this can be done with one line of code (after you're in the directory with the yml file of course)
-`conda env create --name envname --file=environments.yml`
+
+`conda env create --name envname --file=environment.yml`
+Where `envname` is your new environemnt name and `environment.yml` is the yml file
