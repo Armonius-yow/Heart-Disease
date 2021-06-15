@@ -5,7 +5,7 @@ This is the first actual project I've worked on. I used this project as a steppi
 **In this project, I managed to:**
 * Do some EDA (Exploratory Data Analysis) with visuals to accompany results
 * Train three different models on our dataset (Logistic Regression, K-Nearest Neigbors Classifier, Random Forest Classifier)
-* Tuned the arameters of each model to find out which would give the best results
+* Tuned the parameters of each model to find out which would give the best results
 * Inspected different metrics and discussed their value to this project
 #### Note: In order to run this notebook, You need to either have the dependency packages installed already, or install them with the `environments.yml` file
 
