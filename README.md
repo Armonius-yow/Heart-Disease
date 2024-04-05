@@ -1,6 +1,6 @@
 # Heart-Disease
 My analysis and ML model on the heart disease dataset from UCI
-This is the first actual project I've worked on. I used this project as a stepping stone in order to learn how to put a process around abstract methods of extracting information and insight from data
+I used this project as a stepping stone in order to learn how to put a process around abstract methods of extracting information and insight from data
 
 **In this project, I managed to:**
 * Do some EDA (Exploratory Data Analysis) with visuals to accompany results
